@@ -1,0 +1,12 @@
+
+$ git status
+> # On branch your-branch> # Changes not staged for commit:
+> #   (use "git add/rm ..." to update what will be committed)
+> #   (use "git checkout -- ..." to discard changes in working directory)
+> #
+> #     deleted:    /old-folder/image.png> #
+> # Untracked files:
+> #   (use "git add ..." to include in what will be committed)
+> #
+> #     /new-folder/image.png> #
+> # no changes added to commit (us
